@@ -1,9 +1,0 @@
-[theme]
-name = "python_docs_theme"
-
-[theme.options]
-color_scheme = "dark"
-
-font = "sans-serif" # or "serif"
-
-layout = "wide" # or "narrow"
